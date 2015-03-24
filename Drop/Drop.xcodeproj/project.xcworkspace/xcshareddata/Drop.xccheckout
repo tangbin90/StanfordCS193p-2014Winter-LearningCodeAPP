@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45ED2585-57F1-4FAB-B07C-E2B22D6C0CCA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Drop</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04B81325D47F4E24CD9930B07E883C43EB3C8575</key>
+		<string>https://github.com/tangbin90/StanfordCS193p-2014Winter-LearningCodeAPP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Drop/Drop.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04B81325D47F4E24CD9930B07E883C43EB3C8575</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tangbin90/StanfordCS193p-2014Winter-LearningCodeAPP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04B81325D47F4E24CD9930B07E883C43EB3C8575</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04B81325D47F4E24CD9930B07E883C43EB3C8575</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StanfordCS193p-2014Winter-LearningCodeAPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>

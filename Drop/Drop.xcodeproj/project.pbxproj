@@ -87,8 +87,6 @@
 		67EA8FC21ABA778C00BE6562 /* Drop */ = {
 			isa = PBXGroup;
 			children = (
-				67EA8FC71ABA778C00BE6562 /* AppDelegate.h */,
-				67EA8FC81ABA778C00BE6562 /* AppDelegate.m */,
 				67EA8FCA1ABA778C00BE6562 /* ViewController.h */,
 				67EA8FCB1ABA778C00BE6562 /* ViewController.m */,
 				67EA8FCD1ABA778C00BE6562 /* Main.storyboard */,
@@ -106,6 +104,8 @@
 		67EA8FC31ABA778C00BE6562 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				67EA8FC71ABA778C00BE6562 /* AppDelegate.h */,
+				67EA8FC81ABA778C00BE6562 /* AppDelegate.m */,
 				67EA8FC41ABA778C00BE6562 /* Info.plist */,
 				67EA8FC51ABA778C00BE6562 /* main.m */,
 			);
