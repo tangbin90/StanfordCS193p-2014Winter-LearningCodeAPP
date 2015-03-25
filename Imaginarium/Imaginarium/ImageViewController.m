@@ -8,7 +8,7 @@
 
 #import "ImageViewController.h"
 
-@interface ImageViewController ()<UIScrollViewDelegate>
+@interface ImageViewController () <UIScrollViewDelegate>
 @property (nonatomic,strong) UIImageView *imageView;
 @property (nonatomic,strong) UIImage *image;//dont instance it with a local var
 @property (weak, nonatomic) IBOutlet UIScrollView *scrollView;
